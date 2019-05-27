@@ -1,2 +1,2 @@
 git remote
-push dev
+push dev...
